@@ -30,7 +30,7 @@ button {
   line-height: normal;
   margin: 0;
   overflow: visible;
-  padding: 0;
+  padding: 1;
   width: auto;
 }
 button::-moz-focus-inner {
